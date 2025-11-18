@@ -1,5 +1,5 @@
 # iamaws 🧑‍💼🔏🏢
-iamaws : Identity &amp; Access Management # User # Group # Policies # AWS 
+iamaws : Identity &amp; Access Management # Users # Groups # Policies # AWS 
 
 
 ## Objectives
